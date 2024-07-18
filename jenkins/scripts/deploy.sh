@@ -3,7 +3,7 @@
 set -x
 
 # Replace with your actual local path to the PHP project directory
-LOCAL_PATH="C:\Users\niksb\OneDrive\Documents\GitHub\jenkins-php-selenium-test/src"
+LOCAL_PATH="C:/Users/niksb/OneDrive/Documents/GitHub/jenkins-php-selenium-test/src"
 
 # Docker run command with adjusted paths and settings
 docker run -d -p 80:80 --name my-apache-php-app \
